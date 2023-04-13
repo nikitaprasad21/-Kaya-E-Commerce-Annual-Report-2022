@@ -1,0 +1,16 @@
+I designed Quarterly Sales Report Dashboard to get insights on Categories Wise Distribution of Sales in the months of April, May, June using Tableau.
+
+Here is the link to my dashboard on my Tableau Public Profile.
+
+https://public.tableau.com/app/profile/nikita.prasad/viz/KayaE-StoreQuarterlyReport2022/KayaE-StoreQuarterlyReport2022?publish=yes
+
+
+Top 3 observations made are as mentioned below:
+
+1. "April" has the highest sales and June has lowest sales in 2022.
+2. "Adult" Consumers are Kaya E-Store's Elite Customers because they bring approximately 50% of the sales.
+3. "Set" and "Bottom" are the highest and lowest seling products respectively.
+4. More than 90% of orders are "Delivered" to the customers on time and only 2% were "Refunded".
+5. "Amazon", "Flipkart", "Myntra" are the best marketplaces to sell clothes to the customers with maximum sales through those channels (approx. 80%).
+6. "Maharashtra" is the highest selling state whereas "Manipur" has lowest sales.
+7. "Women" are more likely to buy clothes from our site as compared to "Men".

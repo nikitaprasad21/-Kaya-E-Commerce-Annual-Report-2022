@@ -4,6 +4,10 @@
  
 Kaya E-Store is a Clothing E-Store who sells different category clothes on different channels. They had a very good sales in last three months but they wants to create Quarterly Sales Report foe 2022 to understand their customers and grow sales in till last Quarter.
 
+### Work Process
+
+The dataset was uncleaned and dirty so I used Excel to clean the datset for Quarterly Analysis. Then I used Tableau to visualize data to predict below mention observations and recommendations.
+
 
 ### Analytics
 

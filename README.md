@@ -26,12 +26,41 @@ Here is the glimpse of dashboard.
 
 Top 3 observations made are as mentioned below:
 
-1. "April" has the highest sales and June has lowest sales in 2022.
-2. "Adult Women" Consumers are Kaya E-Store's Elite Customers because they bring approximately 60% - 70% of the sales.
-3. "Set" and "Bottom" are the highest and lowest seling product respectively.
+1. Sales by Month in 2022:
+
+* The month of "April" recorded the highest sales, indicating a peak in customer demand and purchasing activity during that period.
+* On the other hand, "June" exhibited the lowest sales, suggesting a comparatively slower sales period during that month.
+
+2. Elite Customers: Adult Women:
+
+* Adult women constitute Kaya E-Store's Elite Customers, contributing significantly to the company's sales.
+* This customer segment accounts for approximately 60% - 70% of the total sales, highlighting their importance and influence in driving revenue.
+
+3. Product Sales Performance:
+
+* The product category labeled as "Set" has recorded the highest sales, indicating strong demand and popularity among customers.
+* Conversely, the "Bottom" category has the lowest sales, suggesting a comparatively weaker performance in terms of customer demand and preference.
+* Understanding the factors contributing to the success of the "Set" category and exploring opportunities for improvement in the "Bottom" category can optimize product offerings and boost overall sales.
 
 ###### Note: Do check all the obsevations made from the dashboard to better understand the recommendations made for the client.
 
 ### Recommendations
 
-Kaya E-Store must target "women" customers of age group 25-40 years, living in "Maharashtra", "Karnataka" and "UP" as well as "Manipur" and "Sikkim" by showing "advertistments", "coupons" or "offers" on the items like "Set", "Kurta", "Dresses" as well as "Bottom" on "Amazon", "Flipkart", "Myntra".
+To effectively target potential customers and drive sales, Kaya E-Store should focus on the following strategies:
+
+1. Target Customer Segment:
+
+* Direct marketing efforts towards women customers aged 25-40 years, as this age group represents a significant market segment with high purchasing power.
+* Specifically target customers residing in Maharashtra, Karnataka, Uttar Pradesh, Manipur, and Sikkim, as these regions have shown potential and align with the company's target audience.
+
+2. Promotional Tactics:
+
+* Employ a mix of advertisements, coupons, and offers to attract and engage the target customers.
+* Create enticing promotions for popular items like "Set," "Kurta," "Dresses," and "Bottom" to cater to their preferences and increase the likelihood of purchases.
+
+3. Leveraging Online Marketplaces:
+
+* Utilize prominent e-commerce platforms such as Amazon, Flipkart, and Myntra to reach a wider customer base.
+* Place advertisements, feature exclusive offers, and provide relevant coupons on these platforms to capture the attention of potential customers actively browsing for similar products.
+
+Note: By implementing these strategies, Kaya E-Store can effectively target and engage women customers in the specified age group residing in Maharashtra, Karnataka, Uttar Pradesh, Manipur, and Sikkim. Leveraging advertisements, coupons, and offers on popular items through leading online marketplaces will maximize visibility and attract customers who are likely to make purchases.
